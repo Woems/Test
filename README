@@ -1,9 +1,20 @@
-Hallo,
+TEST
+====
 
 dies sind alle meine Scripte, die ich Programmiert habe...
 
-== Links ==
+Links
+=====
 
-=== GIT ===
-http://www.online-tutorials.net/programmierung/git/tutorials-t-3-263.html Tutorial in Deutsch
-http://sixrevisions.com/resources/git-tutorials-beginners/ Übersicht über englische Tutorials
+  GIT: Tutorial in Deutsch
+   * http://www.online-tutorials.net/programmierung/git/tutorials-t-3-263.html
+   * http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/de/ 
+
+  GIT: Übersicht über englische Tutorials
+   * http://sixrevisions.com/resources/git-tutorials-beginners/
+
+  GIT: Online Repositorys
+   * http://repo.or.cz/
+   * http://gitorious.org/
+   * http://github.com/
+
