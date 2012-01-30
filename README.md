@@ -13,5 +13,5 @@ Links
   * [GIT: Übersicht über englische Tutorials](http://sixrevisions.com/resources/git-tutorials-beginners/)
   * [GIT: Online Repositorys: repo.or.cz](http://repo.or.cz/)
   * [GIT: Online Repositorys: gitorious](http://gitorious.org/)
-  * [GIT: Online Repositorys: github]http://github.com/
+  * [GIT: Online Repositorys: github](http://github.com/)
 
