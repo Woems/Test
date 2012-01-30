@@ -2,27 +2,27 @@
 
 Set up git ( http://help.github.com/set-up-git-redirect )
 
-  git config --global user.name "Your Name"
-  git config --global user.email e@mail.de
+    git config --global user.name "Your Name"
+    git config --global user.email e@mail.de
      
 
 # Next steps:
 
-  mkdir Test
-  cd Test
-  git init
-  touch README
-  git add README
-  git commit -m 'first commit'
-  git remote add origin git@github.com:Woems/Test.git
-  git push -u origin master
+    mkdir Test
+    cd Test
+    git init
+    touch README
+    git add README
+    git commit -m 'first commit'
+    git remote add origin git@github.com:Woems/Test.git
+    git push -u origin master
       
 
 # Existing Git Repo?
 
-  cd existing_git_repo
-  git remote add origin git@github.com:Woems/Test.git
-  git push -u origin master
+    cd existing_git_repo
+    git remote add origin git@github.com:Woems/Test.git
+    git push -u origin master
       
 
 # Importing a Subversion Repo?
