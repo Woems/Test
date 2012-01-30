@@ -1,36 +1,40 @@
-Global setup:
+# Global setup:
 
- Set up git ( http://help.github.com/set-up-git-redirect )
+Set up git ( http://help.github.com/set-up-git-redirect )
+
   git config --global user.name "Your Name"
-  git config --global user.email 0190666666@freenet.de
-      
+  git config --global user.email e@mail.de
+     
 
-Next steps:
+# Next steps:
 
-  mkdir Test2
-  cd Test2
+  mkdir Test
+  cd Test
   git init
   touch README
   git add README
   git commit -m 'first commit'
-  git remote add origin git@github.com:Woems/Test2.git
+  git remote add origin git@github.com:Woems/Test.git
   git push -u origin master
       
 
-Existing Git Repo?
+# Existing Git Repo?
 
   cd existing_git_repo
-  git remote add origin git@github.com:Woems/Test2.git
+  git remote add origin git@github.com:Woems/Test.git
   git push -u origin master
       
 
-Importing a Subversion Repo?
+# Importing a Subversion Repo?
 
-  Click here ( https://github.com/Woems/Test2/imports/new )
+[Click here](https://github.com/Woems/Test/imports/new)
       
 
-When you're done:
+# When you're done:
 
-  Continue ( https://github.com/Woems/Test2 )
+[Continue](https://github.com/Woems/Test)
 
-https://github.com/github/markup
+# Markups
+
+  * [Markups](https://github.com/github/markup)
+  * [Markdown](http://daringfireball.net/projects/markdown/basics)
