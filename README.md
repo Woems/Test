@@ -6,21 +6,21 @@ dies sind alle meine Scripte, die ich Programmiert habe...
 Links
 =====
 
-  GIT: Tutorial in Deutsch
-   * http://www.online-tutorials.net/programmierung/git/tutorials-t-3-263.html
-   * http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/de/ 
 
-  GIT: Tutorial in Englisch
-   * http://gitref.org/
+  * [GIT: Tutorial in Deutsch](http://www.online-tutorials.net/programmierung/git/tutorials-t-3-263.html)
+  * [GIT: Tutorial in Deutsch](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/de/)
 
-  GIT: Customize
-   * http://book.git-scm.com/5_customizing_git.html
+GIT: Tutorial in Englisch
+  * http://gitref.org/
 
-  GIT: Übersicht über englische Tutorials
-   * http://sixrevisions.com/resources/git-tutorials-beginners/
+GIT: Customize
+  * http://book.git-scm.com/5_customizing_git.html
 
-  GIT: Online Repositorys
-   * http://repo.or.cz/
-   * http://gitorious.org/
-   * http://github.com/
+GIT: Übersicht über englische Tutorials
+  * http://sixrevisions.com/resources/git-tutorials-beginners/
+
+GIT: Online Repositorys
+  * http://repo.or.cz/
+  * http://gitorious.org/
+  * http://github.com/
 
