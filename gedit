@@ -1,10 +1,15 @@
-Externe Werkzeuge
-=================
+Einstellungen
+=============
+
+## Externe Werkzeuge
 
 * Markierung einrücken (CTRL+T)
     sed 's/^/  /'
 * Markierung ausrücken (CTRL+Z)
     sed 's/^  //'
+    
+### Einige Schnippsel
+https://github.com/elson/gedit-javascript-snippets 
     
 Scripte & Verbesserungen
 ========================
@@ -20,5 +25,6 @@ https://github.com/gmate/gmate (gedit 2 textmate 4 rails)
 https://github.com/nagaozen/gedit-plugin-codecompletion/
 https://github.com/nagaozen/gedit-plugin-autocomplete/
 
+* Customizing gedit as a Web Developer's IDE
 http://www.micahcarrick.com/gedit-html-editor.html
-https://github.com/elson/gedit-javascript-snippets 
+
